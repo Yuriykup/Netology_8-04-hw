@@ -43,7 +43,7 @@
 
  ---
 #### Ответ на Задание 1
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+![Скриншот-1](https://github.com/Yuriykup/Netology_8-04-hw/blob/main/img/img1.png)
 
  ---
 
